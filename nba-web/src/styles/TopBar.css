@@ -1,0 +1,16 @@
+.App-header {
+    height: 55px;
+    display: flex;
+    background: #1D428A;
+    color: white;
+    box-shadow: -1px 0 5px 0 #1D428A;
+    /* margin-bottom: 70px; */
+    align-items: center;
+}
+
+.App-logo {
+    height: 35px;
+    padding-left: 40px;
+    /* float: left; */
+}
+
